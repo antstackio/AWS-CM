@@ -1,6 +1,5 @@
 # AWS-Comprehend-Medical
-This is the repository for the blog post:
-URL
+This is the repository for [this](https://www.antstack.com/blog/aws-machine-learning-extract-medical-insights-with-amazon-comprehend-medical/) blog post.
 
 To run this application, install the necessary modules,
 
